@@ -10,15 +10,16 @@ layout: default
 <img src="{{site.baseurl}}/images/icon.jpg" width="20%">
 <img src="{{site.baseurl}}/images/icon_dark.jpg" width="20%">
 
-はじめまして，鎌田幸希(kouki@kmdkuk)です．  
-現在は，公立はこだて未来大学の大学院修士課程２年目です．  
-来年からはCybozuで働いているはずです．  
+鎌田幸希(kouki@kmdkuk)です．  
+現在は，Cybozuで働いてmasu．  
+仕事ではk8s周りをやっていくチームで頑張ってます。。（k8sなんもわからん）
 
 ## スキルセット・興味範囲・好きなこと
 
 ### Go
 
 サーバ書いたり，CLI書いたり→[CLIのテンプレート](https://github.com/kmdkuk/go-cli-template)とか[家のネットが落ちすぎる](https://twitter.com/hashtag/kmdkuk%E3%81%AE%E3%83%8D%E3%83%83%E3%83%88%E5%9B%9E%E7%B7%9A?f=live)ので，[TwitterやSlackにネットが分断されたとき報告するもの](https://github.com/kmdkuk/gote)を作ったり，，，
+最近は何するでも基本Goです。k8sのカスタムコントローラ書いたり？
 
 ### Docker
 
@@ -26,11 +27,14 @@ layout: default
 
 ### Kubernetes
 
-お家k8sクラスタを作って遊んだことがあったり(マネージドk8sで遊べる財力がほしい)
+お家k8sクラスタを作って遊んだことがあったり(マネージドk8sで遊べる財力がほしい)  
+最近はおかげさまで仕事にできています。
+
 
 ### Ruby
 
-RubyonRailsで学内のプロジェクトのAPIサーバを開発運用してます．
+RubyonRailsで学内のプロジェクトのAPIサーバを開発運用してました．
+特に理由はないけど、なんか好きな言語です。
 
 ### C / コンパイラ / 言語処理系
 
@@ -39,6 +43,8 @@ RubyonRailsで学内のプロジェクトのAPIサーバを開発運用してま
 ### CI/CD的な自動化
 
 最近GitHubActionsでいろんなこと自動化してます．
+最近は、Selfhosted Runnerをk8s上で動かすためにあれこれやってます。
+→[cybozu-go/meows](https://github.com/cybozu-go/meows)
 
 ### Flutter
 
