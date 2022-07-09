@@ -14,6 +14,14 @@ kouki(@kmdkuk)です．
 現在は，青のC社のNecoチームで働いてmasu．  
 仕事ではk8s周りをやっていくチームで頑張ってます。。（k8sなんもわからん）
 
+## SNS
+
+kmdkukで検索したら各所で見つけれると思うけれど．
+
+Blog: [kouki's blog](https://blog.kmdkuk.com/)
+GitHub:[kmdkuk](https://github.com/kmdkuk)  
+Twitter:[kmdkuk](https://twitter.com/kmdkuk)  
+
 ## スキルセット・興味範囲・好きなこと
 
 ### Go
@@ -75,9 +83,3 @@ Firestoreすげー！データモデリング設計ムズ！！
 
 興味が分散している人間です．全体的にグラフィカルなものよりテキストベースなものが好き
 
-## SNS
-
-kmdkukで検索したら各所で見つけれると思うけれど．
-
-GitHub:[kmdkuk](https://github.com/kmdkuk)  
-Twitter:[kmdkuk](https://twitter.com/kmdkuk)  
