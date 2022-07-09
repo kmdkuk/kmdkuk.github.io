@@ -18,7 +18,7 @@ kouki(@kmdkuk)です．
 
 kmdkukで検索したら各所で見つけれると思うけれど．
 
-Blog: [kouki's blog](https://blog.kmdkuk.com/)
+Blog: [kouki's blog](https://blog.kmdkuk.com/)  
 GitHub:[kmdkuk](https://github.com/kmdkuk)  
 Twitter:[kmdkuk](https://twitter.com/kmdkuk)  
 
@@ -26,8 +26,11 @@ Twitter:[kmdkuk](https://twitter.com/kmdkuk)
 
 ### Go
 
-サーバ書いたり，CLI書いたり→[CLIのテンプレート](https://github.com/kmdkuk/go-cli-template)とか[家のネットが落ちすぎる](https://twitter.com/hashtag/kmdkuk%E3%81%AE%E3%83%8D%E3%83%83%E3%83%88%E5%9B%9E%E7%B7%9A?f=live)ので，[TwitterやSlackにネットが分断されたとき報告するもの](https://github.com/kmdkuk/gote)を作ったり，，，
-最近は何するでも基本Goです。k8sのカスタムコントローラ書いたり→[MCing](https://github.com/kmdkuk/MCing)(Minecraft Server立ち上げるカスタムコントローラー), cybozu-go下のものを仕事でちょこちょこ
+サーバ書いたり，CLI書いたり→[CLIのテンプレート](https://github.com/kmdkuk/go-cli-template)
+とか[家のネットが落ちすぎる](https://twitter.com/hashtag/kmdkuk%E3%81%AE%E3%83%8D%E3%83%83%E3%83%88%E5%9B%9E%E7%B7%9A?f=live)ので，
+[TwitterやSlackにネットが分断されたとき報告するもの](https://github.com/kmdkuk/gote)を作ったり，，，  
+最近は何するでも基本Goです。k8sのカスタムコントローラ書いたり→[MCing](https://github.com/kmdkuk/MCing)
+(Minecraft Server立ち上げるカスタムコントローラー), cybozu-go下のものを仕事でちょこちょこ
 
 ### Docker
 
@@ -68,11 +71,15 @@ RubyonRailsで学内のプロジェクトのAPIサーバを開発運用してま
 
 #### C / コンパイラ / 言語処理系
 
-かの有名な[ruiさん](https://twitter.com/rui314)の[低レイヤを知りたい人のためのCコンパイラ作成入門](https://www.sigbus.info/compilerbook)を読んで，chibiccを写経して喜んでるくらいの人間
+かの有名な[ruiさん](https://twitter.com/rui314)の[低レイヤを知りたい人のためのCコンパイラ作成入門](https://www.sigbus.info/compilerbook)
+を読んで，chibiccを写経して喜んでるくらいの人間
 
 #### Flutter
 
-[大学の友人と共同でアプリ開発](https://github.com/team-x-fun/shiftend)していたり，[ネタアプリ](https://play.google.com/store/apps/details?id=com.kmdkuk.darwin_medal_quiz)，(Qiita記事:[[ネタバレ]ふくらPが9時間かけたことを僕がやったら何時間かかる？](https://qiita.com/kmdkuk/items/b6e866f3c3b5431286f7))をFlutterでぱぱっと作って公開したり．
+[大学の友人と共同でアプリ開発](https://github.com/team-x-fun/shiftend)していたり，
+[ネタアプリ](https://play.google.com/store/apps/details?id=com.kmdkuk.darwin_medal_quiz)，
+(Qiita記事:[[ネタバレ]ふくらPが9時間かけたことを僕がやったら何時間かかる？](https://qiita.com/kmdkuk/items/b6e866f3c3b5431286f7))を
+Flutterでぱぱっと作って公開したり．
 
 #### Firebase
 
